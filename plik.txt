@@ -1,6 +1,8 @@
-zawartość "naszego" pliku
+﻿zawartość "naszego" pliku
 
 nowa linia 1
 nowa linia 2
 nowa linia 3
-nowa linia 4
+nowa linia 4 5
+
+nowa linia 15
